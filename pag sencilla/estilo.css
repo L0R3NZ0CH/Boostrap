@@ -15,7 +15,7 @@ body nav{
     text-align: center;
 }
 nav li{
-    display: inline-block;
+    display: inline-flex;
 }
 nav a{
 text-decoration: none;
@@ -38,10 +38,10 @@ img{
 }
 .articulo{
     width: 80%;
-    border-right: 8px solid #000;
+    border-right: 3px solid #000;
 }
 .enlaces{
-    width: 5%;
+    width: 20%;
     margin-top: 60px;
 }
 .enlaces a{
@@ -56,3 +56,6 @@ footer {
      color:aquamarine;
      padding: 20px;
 }
+#formulario1 {
+         
+    }
